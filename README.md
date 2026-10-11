@@ -16,7 +16,7 @@
 
 </div>
 <p align="center">
-  <a href="https://themecharonin.github.io/MECHAFUSION-TECHNOLOGIES/">
+  <a href="https://mechafusiontech-info.github.io/mechafusiontech-info/">
     <img src="https://img.shields.io/badge/VISIT_SITE-007BFF?style=for-the-badge&logoColor=white" alt="Visit Site">
   </a>
 </p>
