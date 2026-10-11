@@ -15,6 +15,11 @@
 <img src="https://raw.githubusercontent.com/mechafusiontech-info/mechafusiontech-info/main/divider.svg" width="100%" alt="" />
 
 </div>
+<p align="center">
+  <a href="https://themecharonin.github.io/MECHAFUSION-TECHNOLOGIES/">
+    <img src="https://img.shields.io/badge/VISIT_SITE-007BFF?style=for-the-badge&logoColor=white" alt="Visit Site">
+  </a>
+</p>
 
 ## 🔷 About MechaFusion Technologies
 
